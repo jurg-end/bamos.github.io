@@ -1,6 +1,6 @@
 ---
 layout: index
-title: jurg-end
+title: anything
 ---
 
 {% include cv.md %}
